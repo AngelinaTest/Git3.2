@@ -11,4 +11,5 @@ public class Main {
         int finalBalance = Balance + add +bonus;
         System.out.println("Итоговый счет:" + finalBalance);
         System.out.println("Бонус: " + bonus);
-    }}
+    }
+}
